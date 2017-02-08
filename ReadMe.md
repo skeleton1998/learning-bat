@@ -1,2 +1,2 @@
 ##This is skeleton's practice location of bat
-+ Now,I have learn bat self
++ Now,I learn bat self
